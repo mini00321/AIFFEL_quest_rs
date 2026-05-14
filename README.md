@@ -42,10 +42,10 @@
 │       ├── ex08.ipynb  
 │       └── README.md  
 └── GoingDeeper  
-│       ├──Node_05_06 (Segmentation)  
-│       ├── Node_07_08 (Pose Estimation)  
-│       ├── Node_09_10 (Attention)  
-│       ├── Node_11_12 (Transformer)  
-│       ├── Node_13_14 (BERT)  
-│       ├── Node_15_16 (KoChatgpt)  
-│       └── Node_17_18 (Generative AI)  
+        ├──Node_05_06 (Segmentation)  
+        ├── Node_07_08 (Pose Estimation)  
+        ├── Node_09_10 (Attention)  
+        ├── Node_11_12 (Transformer)  
+        ├── Node_13_14 (BERT)  
+        ├── Node_15_16 (KoChatgpt)  
+        └── Node_17_18 (Generative AI)  
